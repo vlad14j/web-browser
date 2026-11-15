@@ -1,4 +1,7 @@
 Browser History Simulator in C
+
+
+
 A modular C-based command-line application designed to simulate a web browser's core history management features, including tab management, navigation history, and automated testing support.
 
 Project Structure
